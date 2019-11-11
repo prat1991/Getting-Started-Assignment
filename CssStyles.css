@@ -25,11 +25,6 @@
 	align-items: center; /* Centers out the Login & Signup so they dont stick to the extreme top of the web page */
 }
 
-.simple-linear 
-{
-  background: linear-gradient(blue, pink);
-}
-
 .headline
 {
 	font-weight: bold;
